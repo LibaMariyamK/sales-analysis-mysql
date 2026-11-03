@@ -11,8 +11,8 @@ You have just joined the analytics team at **ShopEasy**, an online store. Manage
 
 ## Requests from management
 
-1. Marketing wants to know which cities our orders come from and which payment methods customers use. Give me each as a separate list with no repeats.
-2. The catalogue team needs a clean product list showing the product name, category and price, with the headings "Product Name", "Category" and "Selling Price".
+1. Marketing wants to know which cities our orders come from and which payment methods customers use. Give me each as a separate list.
+2. The catalogue team needs a clean product list showing the product name, category and price, with proper headings.
 3. Finance is auditing the April to June 2026 quarter. Show me all delivered orders from Kochi or Chennai placed in that period.
 4. The payments team is reviewing card and net banking activity. Show me the orders paid by credit card or net banking where more than 2 units were bought and the order was not cancelled.
 5. Which products are priced between ₹1,000 and ₹5,000 and are not in the Electronics category?
